@@ -1,0 +1,32 @@
+ASSIGNMENT 1
+
+Q.1     IN THE TEST OF CAT EXAM THE POPULATION S.D IS 100.
+          A SAMPLE OF 25 TEST TAKERS HAS MEAN OF 520.
+          CONSTRUCT A 80% CONFIDENCE INTERVAL ABOUT MEAN.
+
+Solution
+Confidence Interval Range = (Point Estimate - Margin error) to (Point Estimate + Margin error) 
+Since, there is only one sample taken,
+(If more than one sample had been taken,we would have had to calculate the mean of the distribution of sample means)
+We can assume the mean of the sample as point estimate of the mean of population.
+Therefore,
+Point estimate of mean of population = Mean of the sample
+Point Estimate = 520
+Margin error = Zsignificance value/2 * (Standard Deviation of population)/(Number of Sample)1/2
+Significance value = 100% - 80%
+                                   = 20%
+                                   = 0.20
+Therefore, Significance value/2 = 0.10
+Z score of 0.10 = 1.28 -------------------------------------------------- 1
+(Standard Deviation of population)/(Number of Sample)1/2  = 100/25^1/2
+(Standard Deviation of population)/(Number of Sample)1/2  = 100/5
+(Standard Deviation of population)/(Number of Sample)1/2  = 20 ------------ 2
+                                                                                                                  
+Therefore, Margin Error =  1 * 2
+                 Margin Error = 1.28 * 20
+                     Margin Error = 25.6
+Therefore, Confidence Interval Range = (Point Estimate - Margin error) to (Point Estimate + Margin error) 
+Confidence Interval Range  = (520 - 25.6)   to (520 + 25.6)
+         Confidence Interval Range  =  494.40  to 545.60
+
+Therefore 80% Confidence interval about mean for SAT test scores is 509.204 to 530.796
